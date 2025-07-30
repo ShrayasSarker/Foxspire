@@ -49,13 +49,17 @@ Foxspire is a fast-paced 2D action game where you control a brave fox navigating
 > Add screenshots inside your project folder (e.g. `Assets/Screenshots/`) and link them here.
 
 ### Gameplay:
-![Gameplay Screenshot](Assets/Screenshots/gameplay1.png)
+## 📸 Screenshots
 
-### Main Menu:
-![Main Menu Screenshot](Assets/Screenshots/menu.png)
+### 🕹️ Gameplay Scene
+![Gameplay Screenshot](Assets/Screenshot%202025-07-12%20112401.png)
 
-### Mobile Touch UI:
-![Mobile UI Screenshot](Assets/Screenshots/mobile_controls.png)
+### 📱 Touch Controls
+![Touch Control Screenshot](Assets/Screenshot%202025-07-30%20200852.png)
+
+### 🎮 In-Game UI
+![In-Game UI Screenshot](Assets/Screenshot%202025-07-30%20200910.png)
+
 
 ---
 
